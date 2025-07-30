@@ -23,14 +23,6 @@ Montage/Ligo/CyberShake
 
 ## Getting the Data
 
-If you're looking to replicate our experiments, here's where you can find the necessary datasets:
+If you're looking to replicate our experiments, The workflows are generated using the generator provided by:
+https://github.com/pegasus-isi/WorkflowGenerator/tree/master/bharathi
 
-**For the workflow benchmarks**, we used three different scientific applications:
-
-- **Montage** (astronomical image processing): You can grab this dataset from the [Pegasus Workflow Management System](https://pegasus.isi.edu/) or [WorkflowHub](https://workflowhub.eu/). It's commonly used for testing workflow scheduling algorithms.
-
-- **Ligo** (gravitational wave analysis): This workflow is available through the same sources - [Pegasus](https://pegasus.isi.edu/) and [WorkflowHub](https://workflowhub.eu/). It represents compute-intensive scientific applications.
-
-- **CyberShake** (earthquake simulation): Another standard benchmark that you can download from either the [Pegasus repository](https://pegasus.isi.edu/) or [WorkflowHub](https://workflowhub.eu/).
-
-**For user mobility patterns**, we used randomly generated movement trajectories based on the simulation parameters outlined in our experimental setup. You'll need to generate these according to the specifications provided in the paper.
