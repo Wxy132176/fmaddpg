@@ -23,6 +23,6 @@ Montage/Ligo/CyberShake
 
 ## Getting the Data
 
-If you're looking to replicate our experiments, The workflows are generated using the generator provided by:
+If you're looking to replicate our experiments, the workflows are generated using the generator provided by:
 https://github.com/pegasus-isi/WorkflowGenerator/tree/master/bharathi
 
